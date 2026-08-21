@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Karthikraju44/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Karthikraju44/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Karthikraju44/Leetcode/tree/master/0213-house-robber-ii) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Karthikraju44/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Karthikraju44/Leetcode/tree/master/0344-reverse-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Karthikraju44/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Karthikraju44/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Karthikraju44/Leetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Karthikraju44/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Karthikraju44/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
