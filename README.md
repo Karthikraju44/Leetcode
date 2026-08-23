@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthikraju44/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Karthikraju44/Leetcode/tree/master/0344-reverse-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Karthikraju44/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Karthikraju44/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Karthikraju44/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Karthikraju44/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Karthikraju44/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Karthikraju44/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthikraju44/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Karthikraju44/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Karthikraju44/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
