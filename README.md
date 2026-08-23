@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthikraju44/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Karthikraju44/Leetcode/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/Karthikraju44/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Karthikraju44/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthikraju44/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Karthikraju44/Leetcode/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/Karthikraju44/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
