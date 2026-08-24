@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Karthikraju44/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Karthikraju44/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthikraju44/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Karthikraju44/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Karthikraju44/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Karthikraju44/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
