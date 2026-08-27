@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Karthikraju44/Leetcode/tree/master/0009-palindrome-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Karthikraju44/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Karthikraju44/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Karthikraju44/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
