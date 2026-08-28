@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Karthikraju44/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0198-house-robber](https://github.com/Karthikraju44/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Karthikraju44/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthikraju44/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthikraju44/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Karthikraju44/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Karthikraju44/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Karthikraju44/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Karthikraju44/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Karthikraju44/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Karthikraju44/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
