@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Karthikraju44/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Karthikraju44/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Karthikraju44/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Karthikraju44/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthikraju44/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Karthikraju44/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Karthikraju44/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Karthikraju44/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Karthikraju44/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Karthikraju44/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Karthikraju44/Leetcode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Karthikraju44/Leetcode/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Karthikraju44/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Karthikraju44/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Karthikraju44/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karthikraju44/Leetcode/tree/master/0014-longest-common-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Karthikraju44/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
