@@ -3,9 +3,8 @@ class Solution {
         if(n<1000){
             return 0;
         }
-        if(n>1000 && n<100000){
-            return n-999;
-        }
-        return (n-1000)+1;
+        else return n-999;
+        
+       
     }
 }
