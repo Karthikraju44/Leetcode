@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Karthikraju44/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Karthikraju44/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Karthikraju44/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Karthikraju44/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karthikraju44/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
