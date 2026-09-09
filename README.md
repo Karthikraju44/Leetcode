@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karthikraju44/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/Karthikraju44/Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Karthikraju44/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikraju44/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Karthikraju44/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Karthikraju44/Leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/Karthikraju44/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Karthikraju44/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Karthikraju44/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Karthikraju44/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Karthikraju44/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Karthikraju44/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
