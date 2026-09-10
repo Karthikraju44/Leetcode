@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Karthikraju44/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Karthikraju44/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Karthikraju44/Leetcode/tree/master/0605-can-place-flowers) |
+| [0845-longest-mountain-in-array](https://github.com/Karthikraju44/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Karthikraju44/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Karthikraju44/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Karthikraju44/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Karthikraju44/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Karthikraju44/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Karthikraju44/Leetcode/tree/master/0213-house-robber-ii) |
+| [0845-longest-mountain-in-array](https://github.com/Karthikraju44/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Karthikraju44/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Karthikraju44/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Karthikraju44/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0845-longest-mountain-in-array](https://github.com/Karthikraju44/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1768-merge-strings-alternately](https://github.com/Karthikraju44/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Karthikraju44/Leetcode/tree/master/0036-valid-sudoku) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Karthikraju44/Leetcode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
