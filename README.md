@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Karthikraju44/Leetcode/tree/master/0036-valid-sudoku) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Karthikraju44/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Karthikraju44/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Karthikraju44/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Karthikraju44/Leetcode/tree/master/0217-contains-duplicate) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Karthikraju44/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Karthikraju44/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Karthikraju44/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Karthikraju44/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Karthikraju44/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Karthikraju44/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Karthikraju44/Leetcode/tree/master/0283-move-zeroes) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Karthikraju44/Leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Karthikraju44/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
