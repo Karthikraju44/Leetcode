@@ -11,18 +11,13 @@
 class Solution {
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-
         ListNode fp = list1;
         ListNode sp = list2;
         ListNode nodeToBeCopied = null;
-
         ListNode head = null;
         ListNode tail = null;
-
         while (fp != null || sp != null) {
-
             if (fp != null && sp != null) {
-
                 if (fp.val <= sp.val) {
                     nodeToBeCopied = fp;
                     fp = fp.next;
@@ -31,46 +26,31 @@ class Solution {
                     nodeToBeCopied = sp;
                     sp = sp.next;
                 }
-
             }
             else if (fp != null) {
-
                 nodeToBeCopied = fp;
                 fp = fp.next;
-
             }
             else {
-
                 nodeToBeCopied = sp;
                 sp = sp.next;
             }
-
-            tail = insertAtEnd(tail, nodeToBeCopied.val);
-
+            tail=insertAtEnd(tail, nodeToBeCopied.val);
             if (head == null) {
                 head = tail;
             }
         }
-
         return head;
     }
-
-
     private ListNode insertAtEnd(ListNode tail, int val) {
-
         ListNode nodeToBeInserted = new ListNode(val);
-
         if (tail != null) {
-
             tail.next = nodeToBeInserted;
             tail = nodeToBeInserted;
-
         }
         else {
-
             return nodeToBeInserted;
         }
-
         return tail;
     }
 }
